@@ -1,0 +1,29 @@
+Questions and requested information:
+Observer Screen:
+  1. Notes: 
+       Need examples of pre-defined set of pull-downs. We could allow for both pull-downs 
+       and type-in text.
+       
+  2. Location and Behavior 
+       Need examples 
+       
+  3. In-Range - clarification to determine in-range. Possibilities - 1. observer would not
+     be allowed to select patient if not within range. 2. system could log the -out of 
+     range - condition (tag malfunction) 3. Combine with 'Proximity Indicator' turn 
+     progress bar to 'red' for within range.
+     
+  4. Low Battery - could have progress bar. When observer is 'rounding' a patient, screen
+     would indicate battery level - green, yellow and red for various levels.]
+     
+  5. Discharge - does the observer to the discharge?   
+      
+       
+       
+       
+       
+TODO:
+Add progress bar in stead of signal strength. More negative - further away. Need 
+ calibration. smoothing algorithm 
+ 
+ Need ability to remove patient from device on the fly( moved to different unit).
+ 
